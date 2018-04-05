@@ -35,6 +35,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/lib/libexynosscaler.so:system/lib/libexynosscaler.so \
     $(LOCAL_PATH)/proprietary/lib/libexynosgscaler.so:system/lib/libexynosgscaler.so \
     $(LOCAL_PATH)/proprietary/bin/cs:system/bin/cs \
+    $(LOCAL_PATH)/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
+    $(LOCAL_PATH)/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     $(LOCAL_PATH)/proprietary/lib/omx/libOMX.Exynos.AVC.Decoder.so:system/lib/omx/libOMX.Exynos.AVC.Decoder.so \
     $(LOCAL_PATH)/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so \
     $(LOCAL_PATH)/proprietary/lib/omx/libOMX.Exynos.MPEG4.Decoder.so:system/lib/omx/libOMX.Exynos.MPEG4.Decoder.so \
